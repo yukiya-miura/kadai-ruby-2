@@ -1,1 +1,0 @@
-# kadai-ruby-2
